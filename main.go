@@ -9,5 +9,6 @@ func Add(a, b int) int {
 }
 
 func main() {
+	//check git status
 	fmt.Println("Я домашка")
 }
